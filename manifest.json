@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Pocket UI v2.0.0",
+    "description": "Credits: @FMarquesPTO",
+    "uuid": "84148c11-508b-4700-bf44-83b5ff7a44dc",
+    "version": [2, 0, 0],
+    "min_engine_version": [1, 14, 0]
+  },
+  "modules": [
+    { "type": "resources",
+      "description": "Credits: @FMarquesPTO",
+      "uuid": "8e3fd40b-36b0-4773-97bb-d5a987460f98",
+      "version": [2, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["FMarquesPTO"],
+    "url": "https://www.twitter.com/FMarquesPTO"
+  }
+}
